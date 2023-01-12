@@ -10,7 +10,7 @@
 |6|객체지향 프로그래밍1|객체지향 개념, 오버로딩, 초기화 블럭|2023.01.09|[링크](https://velog.io/@hsw08/자바의정석Chapter-06.-객체지향-프로그래밍I)|
 |7|객체지향 프로그래밍 II|상속, 오버라이딩, package/import, 다형성, 추상클래스, 인터페이스, 내부클래스(inner class)|2023.01.10|[링크](https://velog.io/@hsw08/자바의정석Chapter-07.-객체지향-프로그래밍-II)|
 |8|예외처리(Exception Handling)|예외처리 방식(try-catch-finally, try-with-resources, exception re-throwing), chained exception|2023.01.12|[링크](https://velog.io/@hsw08/자바의정석Chapter-08.-예외처리Exception-Handling)
-|9|java.lang패키지와 유용한 클래스|
+|9|java.lang패키지와 유용한 클래스|java.lang 패키지(Object / String / StringBuffer / StringBuilder 클래스), 그 외 유용한 클래스(정규식, Objects, Random 등)|2023.01.12|[링크](https://velog.io/@hsw08/자바의정석Chapter-09.-java.lang-패키지와-유용한-클래스)
 |10|날짜와 시간 & 형식화|
 |11|컬렉션 프레임원|
 |12|지네릭스, 열거형, 애너테이션|
